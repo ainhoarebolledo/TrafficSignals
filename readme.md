@@ -6,6 +6,14 @@ Consulta de señalización vertical errónea en la ciudad de Madrid.
 
 _instrucciones_
 
+https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/
+
+https://maps.co/help/layers/importing-csv
+
+https://www.datawrapper.de/
+
+https://docs.mapbox.com/help/glossary/csv/
+
 
 ### Pre-requisitos 📋
 
